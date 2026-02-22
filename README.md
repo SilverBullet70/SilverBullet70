@@ -20,21 +20,13 @@ A curious enthusiastic Software Engineer, I'm on a mission to create technology 
 
 
 ------
-<!-- <h3 align="left">Activity:</h3>
-
-[![ github activity graph](https://github-readme-activity-graph)](https://github.com/github-readme-activity-graph)
+<h3 align="left">Activity:</h3>
 
 <div align="center">
   <a href="https://github.com/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt=""/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt=""/>
+    <img height="180em" src="https://github.com/SilverBullet70/SilverBullet70/blob/output/github-contribution-grid-snake-dark.svg" alt=""/>
   </a>
 </div>
-<p align="center">
-  <a href="https://github.com/">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=&&theme=tokyonight" alt="" />
-  </a>
-</p> -->
 
 ------
 <h3 align="left">Languages and Tools:</h3>

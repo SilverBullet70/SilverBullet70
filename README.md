@@ -2,7 +2,7 @@
 
 ### Hello 🌎, I'm Angela Salem
 
-A curious enthusiastic Software Engineer, I'm on a mission to create technology systems that impact people! I have the power to develop in frontend, backend, which allows me to bring my magic to both revolutionary startups and giant enterprise projects. I'm passionate about writing clean, maintainable code and design with users in mind, thriving in environments that love innovation and continuous professional growth. Let's make technology shine! 🚀
+A curious enthusiastic Software Engineer, I'm on a mission to create technology systems that impact people! I have the power to develop in frontend, backend, which allows me to bring my energy to powerful projects. I'm passionate about writing clean, maintainable code and design with users in mind, thriving in environments that love innovation and continuous professional growth. Let's make technology shine! 🚀
 
 
   - 🔭 I’m currently working on developping a Medical Information System for a Hospital.
@@ -11,10 +11,13 @@ A curious enthusiastic Software Engineer, I'm on a mission to create technology 
   - ⚡ Fun fact: I play music.
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://www.linkedin.com/in/angela-salem" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Angela_Salem" height="40" width="60" ></i>
+<a href="https://www.linkedin.com/in/angela-salem" target="blank">
+<img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=50" alt="linkedin" />
 </a>
 </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SilverBullet70&label=Profile%20views&color=0e75b6&style=flat" alt="SilverBullet70" /> </p>
 
